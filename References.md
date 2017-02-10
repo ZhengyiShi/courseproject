@@ -1,3 +1,6 @@
+## idea
+We want to write a _**web crawler**_ to help you search pictures, articles or videos on facebook or youtube according to the key words. People can use this _**web crawler**_ to find things they are interested in. We may use MIT license of this project because it isn't for commercial use and we think _**web crawler**_ will be easier to improve in this way.
+
 ## imformation
 Wiki: https://en.wikipedia.org/wiki/WebCrawler
 
